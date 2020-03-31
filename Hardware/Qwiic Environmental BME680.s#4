@@ -6616,9 +6616,9 @@ to be daisy chained easily.&lt;/p&gt;
 <text x="172.72" y="119.38" size="1.778" layer="97" font="vector">Open (default) = 0x77</text>
 <text x="172.72" y="116.84" size="1.778" layer="97" font="vector">Closed = 0x76</text>
 <text x="170.434" y="11.43" size="2.54" layer="94" font="vector">N. Seidle</text>
-<text x="81.28" y="170.18" size="1.778" layer="97" font="vector">Interface Select Jumper</text>
-<text x="83.82" y="167.64" size="1.778" layer="97" font="vector">Open = SPI</text>
-<text x="83.82" y="165.1" size="1.778" layer="97" font="vector">Closed (default) = I2C</text>
+<wire x1="248.92" y1="101.6" x2="0" y2="101.6" width="0.2032" layer="97" style="longdash"/>
+<text x="2.54" y="180.34" size="2.54" layer="97" font="vector">BME680</text>
+<text x="2.54" y="96.52" size="2.54" layer="97" font="vector">Connections</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>

@@ -166,12 +166,12 @@
 <wire x1="25.4" y1="0" x2="25.4" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="25.4" y1="25.4" x2="0" y2="25.4" width="0.2032" layer="20"/>
 <wire x1="0" y1="25.4" x2="0" y2="0" width="0.2032" layer="20"/>
-<text x="13.97" y="-10.16" size="2.032" layer="51" font="vector">N. Seidle</text>
+<text x="13.97" y="-10.16" size="1.778" layer="51" font="vector">N. Seidle</text>
 <text x="24.892" y="0.508" size="1.016" layer="16" font="vector" ratio="20" rot="MR0">v10</text>
-<text x="13.97" y="-12.7" size="2.032" layer="51" font="vector">A. England</text>
+<text x="13.97" y="-12.7" size="1.778" layer="51" font="vector">A. England</text>
 <dimension x1="25.4" y1="25.4" x2="0" y2="25.4" x3="12.7" y3="30.48" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="0" y1="25.4" x2="0" y2="0" x3="-5.08" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
-<dimension x1="2.54" y1="22.86" x2="2.54" y2="25.4" x3="-1.27" y3="24.13" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="0" y1="25.4" x2="0" y2="0" x3="-10.16" y3="12.7" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="2.54" y1="22.86" x2="2.54" y2="25.4" x3="-6.35" y3="24.13" textsize="1.778" layer="47" unit="inch"/>
 <dimension x1="2.54" y1="22.86" x2="0" y2="22.86" x3="1.27" y3="26.67" textsize="1.778" layer="47" unit="inch"/>
 <text x="1.27" y="-2.54" size="1.778" layer="47" font="vector">Units in Inches</text>
 </plain>
@@ -437,131 +437,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.8766" y="-0.26263125"/>
 <vertex x="0.8766" y="-0.24263125"/>
 <vertex x="0.8866" y="-0.23263125"/>
-</polygon>
-</package>
-<package name="SFE_LOGO_FLAME_.3">
-<description>&lt;h3&gt;SparkFun Flame Logo - 0.3" Height - Silkscreen&lt;/h3&gt;
-&lt;p&gt;SparkFun Flame Logo&lt;/p&gt;
-&lt;p&gt;Devices using:
-&lt;ul&gt;&lt;li&gt;SFE_LOGO_FLAME&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</description>
-<polygon width="0.01" layer="21">
-<vertex x="1.602" y="2.603"/>
-<vertex x="1.602" y="2.583"/>
-<vertex x="1.612" y="2.533"/>
-<vertex x="1.612" y="2.373"/>
-<vertex x="1.582" y="2.283"/>
-<vertex x="1.542" y="2.193"/>
-<vertex x="1.472" y="2.123"/>
-<vertex x="1.362" y="2.083"/>
-<vertex x="1.262" y="2.083"/>
-<vertex x="1.152" y="2.103"/>
-<vertex x="1.042" y="2.143"/>
-<vertex x="0.932" y="2.203"/>
-<vertex x="0.712" y="2.343"/>
-<vertex x="0.532" y="2.523"/>
-<vertex x="0.462" y="2.633"/>
-<vertex x="0.402" y="2.733"/>
-<vertex x="0.372" y="2.823"/>
-<vertex x="0.362" y="2.923"/>
-<vertex x="0.372" y="3.003"/>
-<vertex x="0.402" y="3.093"/>
-<vertex x="0.452" y="3.173"/>
-<vertex x="0.512" y="3.253"/>
-<vertex x="0.622" y="3.343"/>
-<vertex x="0.752" y="3.413"/>
-<vertex x="0.872" y="3.443"/>
-<vertex x="1.002" y="3.463"/>
-<vertex x="1.102" y="3.463"/>
-<vertex x="1.192" y="3.453"/>
-<vertex x="1.252" y="3.443"/>
-<vertex x="1.272" y="3.443"/>
-<vertex x="1.232" y="3.473"/>
-<vertex x="1.122" y="3.553"/>
-<vertex x="0.942" y="3.653"/>
-<vertex x="0.722" y="3.753"/>
-<vertex x="0.442" y="3.813"/>
-<vertex x="0.142" y="3.833"/>
-<vertex x="-0.188" y="3.763"/>
-<vertex x="-0.528" y="3.583"/>
-<vertex x="-0.788" y="3.363"/>
-<vertex x="-0.948" y="3.123"/>
-<vertex x="-1.028" y="2.883"/>
-<vertex x="-1.028" y="2.623"/>
-<vertex x="-0.958" y="2.363"/>
-<vertex x="-0.818" y="2.103"/>
-<vertex x="-0.628" y="1.843"/>
-<vertex x="-0.368" y="1.583"/>
-<vertex x="-0.178" y="1.353"/>
-<vertex x="-0.078" y="1.133"/>
-<vertex x="-0.068" y="0.923"/>
-<vertex x="-0.138" y="0.733"/>
-<vertex x="-0.268" y="0.573"/>
-<vertex x="-0.448" y="0.463"/>
-<vertex x="-0.668" y="0.403"/>
-<vertex x="-0.908" y="0.403"/>
-<vertex x="-1.068" y="0.433"/>
-<vertex x="-1.198" y="0.493"/>
-<vertex x="-1.308" y="0.573"/>
-<vertex x="-1.388" y="0.663"/>
-<vertex x="-1.448" y="0.763"/>
-<vertex x="-1.468" y="0.863"/>
-<vertex x="-1.468" y="0.963"/>
-<vertex x="-1.448" y="1.053"/>
-<vertex x="-1.398" y="1.123"/>
-<vertex x="-1.338" y="1.183"/>
-<vertex x="-1.268" y="1.243"/>
-<vertex x="-1.128" y="1.323"/>
-<vertex x="-1.068" y="1.343"/>
-<vertex x="-1.038" y="1.363"/>
-<vertex x="-1.018" y="1.373"/>
-<vertex x="-1.038" y="1.383"/>
-<vertex x="-1.088" y="1.393"/>
-<vertex x="-1.158" y="1.413"/>
-<vertex x="-1.268" y="1.433"/>
-<vertex x="-1.388" y="1.443"/>
-<vertex x="-1.528" y="1.433"/>
-<vertex x="-1.678" y="1.403"/>
-<vertex x="-1.848" y="1.353"/>
-<vertex x="-1.988" y="1.293"/>
-<vertex x="-2.128" y="1.203"/>
-<vertex x="-2.248" y="1.093"/>
-<vertex x="-2.358" y="0.953"/>
-<vertex x="-2.438" y="0.783"/>
-<vertex x="-2.508" y="0.583"/>
-<vertex x="-2.538" y="0.333"/>
-<vertex x="-2.548" y="0.043"/>
-<vertex x="-2.548" y="-3.797"/>
-<vertex x="-2.528" y="-3.777"/>
-<vertex x="-2.478" y="-3.707"/>
-<vertex x="-2.388" y="-3.607"/>
-<vertex x="-2.278" y="-3.477"/>
-<vertex x="-2.148" y="-3.317"/>
-<vertex x="-1.998" y="-3.147"/>
-<vertex x="-1.828" y="-2.957"/>
-<vertex x="-1.648" y="-2.767"/>
-<vertex x="-1.458" y="-2.557"/>
-<vertex x="-1.288" y="-2.367"/>
-<vertex x="-1.128" y="-2.207"/>
-<vertex x="-0.978" y="-2.067"/>
-<vertex x="-0.828" y="-1.957"/>
-<vertex x="-0.668" y="-1.877"/>
-<vertex x="-0.488" y="-1.837"/>
-<vertex x="0.092" y="-1.837"/>
-<vertex x="0.442" y="-1.787"/>
-<vertex x="0.772" y="-1.697"/>
-<vertex x="1.082" y="-1.567"/>
-<vertex x="1.362" y="-1.387"/>
-<vertex x="1.612" y="-1.187"/>
-<vertex x="1.842" y="-0.947"/>
-<vertex x="2.052" y="-0.677"/>
-<vertex x="2.342" y="-0.127"/>
-<vertex x="2.492" y="0.423"/>
-<vertex x="2.522" y="0.943"/>
-<vertex x="2.452" y="1.433"/>
-<vertex x="2.302" y="1.863"/>
-<vertex x="2.092" y="2.213"/>
-<vertex x="1.852" y="2.473"/>
-<vertex x="1.592" y="2.613"/>
 </polygon>
 </package>
 <package name="SFE_LOGO_NAME_FLAME_.1">
@@ -4791,7 +4666,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$28" library="buzzard_labels" package="QUALITY2" value="" x="7.62" y="3.81" smashed="yes" rot="MR0"/>
 <element name="U$29" library="buzzard_labels" package="SENSOR3" value="" x="7.62" y="2.54" smashed="yes" rot="MR0"/>
 <element name="U$30" library="buzzard_labels (2)" package="ADR4" value="" x="10.922" y="16.891" smashed="yes" rot="MR0"/>
-<element name="U$31" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.3" value="" x="34.544" y="5.969" smashed="yes"/>
 <element name="U1" library="SparkFun-Sensors" package="LGA3.0X3.0" value="BME680" x="12.7" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="15.24" y="12.7" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-14656" x="12.7" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4840,7 +4714,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="11.049" y1="13.208" x2="12.319" y2="13.208" width="0.1778" layer="1"/>
 <wire x1="12.319" y1="13.208" x2="13.843" y2="13.208" width="0.1778" layer="1"/>
 <wire x1="15.582" y1="13.55" x2="15.24" y2="13.208" width="0.1778" layer="1"/>
-<wire x1="12.3" y1="13.227" x2="12.319" y2="13.208" width="0.1778" layer="1"/>
 <wire x1="13.9" y1="13.265" x2="13.843" y2="13.208" width="0.1778" layer="1"/>
 <via x="7.62" y="13.208" extent="1-16" drill="0.381"/>
 <wire x1="7.62" y1="12.446" x2="8.216" y2="11.85" width="0.1778" layer="1"/>
@@ -5049,6 +4922,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <errors>
 <approved hash="19,1,17d230a4e2c73931"/>
 <approved hash="19,1,874712559f872159"/>
+<approved hash="19,1,85a24b4ad3308d7c"/>
 </errors>
 </board>
 </drawing>
