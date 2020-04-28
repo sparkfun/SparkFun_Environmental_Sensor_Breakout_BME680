@@ -9,8 +9,6 @@ The Environmental Sensor - BME680 (Qwiic) is a powerful 4-in-1 environmental sen
 
 Repository Contents
 -------------------
-
-* **/Documentation** - Data sheets, additional product information
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
