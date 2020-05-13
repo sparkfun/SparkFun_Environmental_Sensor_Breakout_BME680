@@ -1,7 +1,7 @@
 SparkFun Environmental Sensor - BME680 (Qwiic)
 ========================================
 
-![Environmental Sensor - BME680 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/5/3/2/9/16466-SparkFun_Environmental_Sensor_Breakout_-_BME680__Qwiic_-01.jpg)
+![SparkFun Environmental Sensor - BME680 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/5/3/2/9/16466-SparkFun_Environmental_Sensor_Breakout_-_BME680__Qwiic_-01a.jpg)
 
 [*SparkFun Environemtnal Sensor - BME680 (Qwiic) (SEN-16466)*](https://www.sparkfun.com/products/16466)
 
@@ -16,6 +16,7 @@ Documentation
 --------------
 * **[Bosch Sensortech BME680 Driver](https://github.com/BoschSensortec/BME680_driver)** - A C driver for the BME680.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/environmental-sensor---bme680-qwiic-hookup-guide)** - Basic hookup guide for the SparkFun Environmental Sensor - BME680 (Qwiic).
+* **[BME680 Arduino Library](https://github.com/SV-Zanshin/BME680)** - Arduino library created by SV-Zanshin for the BME680 Environmental Sensor.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
