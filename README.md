@@ -14,7 +14,6 @@ Repository Contents
 
 Documentation
 --------------
-* **[Bosch Sensortech BME680 Driver](https://github.com/BoschSensortec/BME680_driver)** - A C driver for the BME680.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/environmental-sensor---bme680-qwiic-hookup-guide)** - Basic hookup guide for the SparkFun Environmental Sensor - BME680 (Qwiic).
 * **[BME680 Arduino Library](https://github.com/SV-Zanshin/BME680)** - Arduino library created by SV-Zanshin for the BME680 Environmental Sensor.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
