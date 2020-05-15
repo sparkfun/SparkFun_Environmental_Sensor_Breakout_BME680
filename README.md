@@ -1,9 +1,9 @@
 SparkFun Environmental Sensor - BME680 (Qwiic)
 ========================================
 
-![SparkFun Environmental Sensor - BME680 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/5/3/2/9/16466-SparkFun_Environmental_Sensor_Breakout_-_BME680__Qwiic_-01a.jpg)
+[![SparkFun Environmental Sensor - BME680 (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/5/3/2/9/16466-SparkFun_Environmental_Sensor_Breakout_-_BME680__Qwiic_-01a.jpg)](https://www.sparkfun.com/products/16466)
 
-[*SparkFun Environemtnal Sensor - BME680 (Qwiic) (SEN-16466)*](https://www.sparkfun.com/products/16466)
+[*SparkFun Environmental Sensor - BME680 (Qwiic) (SEN-16466)*](https://www.sparkfun.com/products/16466)
 
 The Environmental Sensor - BME680 (Qwiic) is a powerful 4-in-1 environmental sensor that communicates over I<sup>2</sup>C or SPI. The BME680 combines a gas sensor with temperature, humidity and barometric pressure sensors for a complete environmental sensor in a tiny package.
 
